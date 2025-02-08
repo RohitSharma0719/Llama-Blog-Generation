@@ -23,4 +23,5 @@ CTransformers: Efficient inference for LLaMA models
 Hugging Face Hub: Model storage and retrieval
 
 
-![Uploading image.png…]()
+<img width="1225" alt="image" src="https://github.com/user-attachments/assets/83522249-212e-4ffa-91df-3276c3d5b08f" />
+
